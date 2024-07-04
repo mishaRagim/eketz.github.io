@@ -1,0 +1,18 @@
+body{
+	background-image: url(i.jpg);
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+}
+h1{
+	color: MediumVioletRed;
+	background: Pink;
+	text-align: center;
+	transform: translate(0px, 10px);
+}
+div{
+	text-align: center;
+}
+hr{
+	width: 60%;
+}
